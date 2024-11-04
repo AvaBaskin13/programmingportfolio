@@ -10,7 +10,7 @@
 ## Term 1
 ### Etch-A-Sketch
 Intercative art program using keyboard controls with the ability to save images.
-![Running App](https://github.com/AvaBaskin13/programmingportfolio/blob/main/images/Etch-A-Sketch%201.png)
+![Running App](https://github.com/AvaBaskin13/programmingportfolio/blob/main/images/Etch-A-Sketch1.png?raw=true)
 [Source code](https://github.com/AvaBaskin13/programmingportfolio/tree/main/src/Etch_a_Sketch_App)
 ## Term 2
 Calculator that works by clicking buttons on the screen or using keyboard keys.
