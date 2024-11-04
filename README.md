@@ -14,5 +14,5 @@ Intercative art program using keyboard controls with the ability to save images.
 [Source code]()
 ## Term 2
 Calculator that works by clicking buttons on the screen or using keyboard keys.
-![Running App]()
+![Running App](https://github.com/AvaBaskin13/programmingportfolio/blob/main/images/calculator%201.png?raw=true)
 [Source Code]()
