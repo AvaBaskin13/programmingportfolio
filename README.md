@@ -12,9 +12,14 @@
 Intercative art program using keyboard controls with the ability to save images.
 ![Running App](https://github.com/AvaBaskin13/programmingportfolio/blob/main/images/Etch-A-Sketch1.png?raw=true)
 [Source code](https://github.com/AvaBaskin13/programmingportfolio/tree/main/src/Etch_a_Sketch_App)
+
 ## Term 2
+### Calculator
 Calculator that works by clicking buttons on the screen or using keyboard keys.
 ![Running App](https://github.com/AvaBaskin13/programmingportfolio/blob/main/images/calculator%201.png?raw=true)
 [Source Code](https://github.com/AvaBaskin13/programmingportfolio/tree/main/src/Calculator_App)
-
+### Space Game
+OOP solution for a collission based space-themed game 11/25/2024.
+![Running App](https://github.com/AvaBaskin13/programmingportfolio/blob/main/images/SpaceGamePlayPicture.png?raw=true)
+[Source Code](https://github.com/AvaBaskin13/programmingportfolio/tree/main/src/SpaceGame_)
 ## Certifications
