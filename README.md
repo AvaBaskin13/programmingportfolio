@@ -24,4 +24,4 @@ OOP solution for a collission based space-themed game 11/25/2024.
 [Source Code](https://github.com/AvaBaskin13/programmingportfolio/tree/main/src/SpaceGame_)
 ## Certifications
 Computer Programming 1 CTE Certification
-![certification]()
+![certification](https://github.com/AvaBaskin13/programmingportfolio/blob/main/images/ComputerProgramming1Certification)
