@@ -15,7 +15,7 @@ Intercative art program using keyboard controls with the ability to save images.
 
 ### Computer Timeline
 An interactive timeline of historical computer systems.
-![Running App]()
+![Running App](https://github.com/AvaBaskin13/programmingportfolio/blob/main/images/computerTimeline.png?raw=true)
 [Source Code](https://github.com/AvaBaskin13/programmingportfolio/blob/main/src/timeline.pde)
 
 ### Temperature Converter
