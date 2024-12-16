@@ -13,6 +13,16 @@ Intercative art program using keyboard controls with the ability to save images.
 ![Running App](https://github.com/AvaBaskin13/programmingportfolio/blob/main/images/Etch-A-Sketch1.png?raw=true)
 [Source code](https://github.com/AvaBaskin13/programmingportfolio/tree/main/src/Etch_a_Sketch_App)
 
+### Computer Timeline
+An interactive timeline of historical computer systems.
+![Running App]()
+[Source Code](https://github.com/AvaBaskin13/programmingportfolio/blob/main/src/timeline.pde)
+
+### Temperature Converter
+An interactive app to convert Farenheit to Celcius and Celcius to Farenheit.
+![Running App]()
+[Source Code]()
+
 ## Term 2
 ### Calculator
 Calculator that works by clicking buttons on the screen or using keyboard keys.
