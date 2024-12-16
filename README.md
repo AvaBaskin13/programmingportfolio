@@ -1,7 +1,7 @@
 # Ava Baskin's Programming Portfolio 2024-2025
 * Projected graduation 2026
 * Interested in math, rockclimbing, games, and spending time in nature.
-* Expirience coding in Processing enviornment.
+* Experience coding in Processing enviornment.
 * I took this course because I think coding can be combined with many other feilds to help solve problems.
 * My goal for this course is to become proffecient enough in coding that I can use it to create my own projects in the future.
 * Typing speed: 47 wpm
@@ -23,3 +23,5 @@ OOP solution for a collission based space-themed game 11/25/2024.
 ![Running App](https://github.com/AvaBaskin13/programmingportfolio/blob/main/images/SpaceGamePlayPicture.png?raw=true)
 [Source Code](https://github.com/AvaBaskin13/programmingportfolio/tree/main/src/SpaceGame_)
 ## Certifications
+Computer Programming 1 CTE Certification
+![certification]()
