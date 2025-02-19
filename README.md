@@ -32,6 +32,15 @@ Calculator that works by clicking buttons on the screen or using keyboard keys.
 OOP solution for a collission based space-themed game 11/25/2024.
 ![Running App](https://github.com/AvaBaskin13/programmingportfolio/blob/main/images/SpaceGamePlayPicture.png?raw=true)
 [Source Code](https://github.com/AvaBaskin13/programmingportfolio/tree/main/src/SpaceGame_)
+
+
+## Term 3
+### Shape Maker
+allows the user to find the surface area and volume of a shape of their choice.
+![Running App](https://github.com/AvaBaskin13/programmingportfolio/blob/main/images/runningShapeTester.png)
+[Source Code](https://github.com/AvaBaskin13/programmingportfolio/tree/main/src/shapeTester-2)
+
+
 ## Certifications
 Computer Programming 1 CTE Certification
 ![certification](https://github.com/AvaBaskin13/programmingportfolio/blob/main/images/ComputerProgramming1Certification)
