@@ -38,7 +38,7 @@ OOP solution for a collission based space-themed game 11/25/2024.
 ### Shape Maker
 allows the user to find the surface area and volume of a shape of their choice.
 ![Running App](https://github.com/AvaBaskin13/programmingportfolio/blob/main/images/runningShapeTester.png)
-[Source Code](https://github.com/AvaBaskin13/programmingportfolio/tree/main/src/shapeTester-2)
+[Source Code](https://github.com/AvaBaskin13/programmingportfolio/tree/main/src/shapeTester)
 
 
 ## Certifications
