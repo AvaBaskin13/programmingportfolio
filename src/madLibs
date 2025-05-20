@@ -1,0 +1,167 @@
+firstStory = {
+    "verb1": " ",
+    "verb2": " ",
+    "verb3": " ",
+    "verb4": " ",
+    "verb1": " ",
+    "verb2": " ",
+    "verb3": " ",
+    "verb4": " ",
+    "verb1": " ",
+    "verb2": " ",
+    "verb3": " ",
+    "verb4": " ",
+    "verb2": " ",
+    "verb3": " ",
+    "verb4": " ",
+}
+secondStory = {
+    "adjetive1": " ",
+    "noun1": " ",
+    "verb1": " ",
+    "fullName": " ",
+    "verb2": " ",
+    "adjetive2": " ",
+    "nouns": " ",
+    "day": " ",
+    "animals": " ",
+    "sport": " ",
+    "subject": " ",
+    "adjetive3": " ",
+    "material": " ",
+    "verb3": " ",
+    "adjetive4": " ",
+}
+thirdStory = {
+    "verb1": " ",
+    "verb2": " ",
+    "verb3": " ",
+    "verb4": " ",
+    "verb1": " ",
+    "verb2": " ",
+    "verb3": " ",
+    "verb4": " ",
+    "verb1": " ",
+    "verb2": " ",
+    "verb3": " ",
+    "verb4": " ",
+    "verb2": " ",
+    "verb3": " ",
+    "verb4": " ",
+}
+fourthStory = {
+    "verb1": " ",
+    "verb2": " ",
+    "verb3": " ",
+    "verb4": " ",
+    "verb1": " ",
+    "verb2": " ",
+    "verb3": " ",
+    "verb4": " ",
+    "verb1": " ",
+    "verb2": " ",
+    "verb3": " ",
+    "verb4": " ",
+    "verb2": " ",
+    "verb3": " ",
+    "verb4": " ",
+}
+
+
+def story1():
+    firstStory["verb1"] = input("verb: ")
+    firstStory["verb1"] = input("verb: ")
+    firstStory["verb1"] = input("verb: ")
+    firstStory["verb1"] = input("verb: ")
+    firstStory["verb1"] = input("verb: ")
+    firstStory["verb1"] = input("verb: ")
+    firstStory["verb1"] = input("verb: ")
+    firstStory["verb1"] = input("verb: ")
+    firstStory["verb1"] = input("verb: ")
+    firstStory["verb1"] = input("verb: ")
+    firstStory["verb1"] = input("verb: ")
+    firstStory["verb1"] = input("verb: ")
+    firstStory["verb1"] = input("verb: ")
+    firstStory["verb1"] = input("verb: ")
+    firstStory["verb1"] = input("verb: ")
+    print(" ")
+
+def story2():
+    secondStory["adjetive1"] = input("adjetive: ")
+    secondStory["noun1"] = input("noun: ")
+    secondStory["verb1"] = input("verb: ")
+    secondStory["fullName"] = input("full name: ")
+    secondStory["verb2"] = input("verb: ")
+    secondStory["adjetive2"] = input("adjetive: ")
+    secondStory["nouns"] = input("noun (plural): ")
+    secondStory["day"] = input("day of the week: ")
+    secondStory["animals"] = input("animal (plural): ")
+    secondStory["sport"] = input("sport: ")
+    secondStory["subject"] = input("school subject: ")
+    secondStory["adjetive3"] = input("adjetive: ")
+    secondStory["material"] = input("material: ")
+    secondStory["adjetive4"] = input("adjetive: ")
+    secondStory["verb3"] = input("verb: ")
+    print(f"Welcome to {secondStory[adjetive1]} {secondStory[noun1]} college")
+    print(f"Let me show you around our {secondstory[verb1]} campus")
+    print(f"Here is the {secondStory[fullName]} library where students go to {secondStory[verb2]}")
+    print(f"Here is our {secondStory[adjetive2]} lawn where many {secondStory[nouns]} like to {secondStory[verb3]}")
+    print(f"Our stadium is over there.")
+    print(f"Every {secondStory[day]} people come to watch our {secondStory[animals]} play {secondStory[sport]}")
+    print(f"Lastly here is our {secondStory[subject]} building made of {secondStory[adjetive3]} {secondStory[material]}")
+    print(f"I hope you choose to come to our {secondStory[adjetive4]} school!")
+def story3():
+    thirdStory["verb1"] = input("verb: ")
+    thirdStory["verb1"] = input("verb: ")
+    thirdStory["verb1"] = input("verb: ")
+    thirdStory["verb1"] = input("verb: ")
+    thirdStory["verb1"] = input("verb: ")
+    thirdStory["verb1"] = input("verb: ")
+    thirdStory["verb1"] = input("verb: ")
+    thirdStory["verb1"] = input("verb: ")
+    thirdStory["verb1"] = input("verb: ")
+    thirdStory["verb1"] = input("verb: ")
+    thirdStory["verb1"] = input("verb: ")
+    thirdStory["verb1"] = input("verb: ")
+    thirdStory["verb1"] = input("verb: ")
+    thirdStory["verb1"] = input("verb: ")
+    thirdStory["verb1"] = input("verb: ")
+    print(" ")
+
+def story4():
+    fourthStory["verb1"] = input("verb: ")
+    fourthStory["verb1"] = input("verb: ")
+    fourthStory["verb1"] = input("verb: ")
+    fourthStory["verb1"] = input("verb: ")
+    fourthStory["verb1"] = input("verb: ")
+    fourthStory["verb1"] = input("verb: ")
+    fourthStory["verb1"] = input("verb: ")
+    fourthStory["verb1"] = input("verb: ")
+    fourthStory["verb1"] = input("verb: ")
+    fourthStory["verb1"] = input("verb: ")
+    fourthStory["verb1"] = input("verb: ")
+    fourthStory["verb1"] = input("verb: ")
+    fourthStory["verb1"] = input("verb: ")
+    fourthStory["verb1"] = input("verb: ")
+    fourthStory["verb1"] = input("verb: ")
+    print(" ")
+
+playing = True
+while playing:
+    for i in range(3):
+        print("Let's fill out a mad libs!")
+        if i == 0:
+            story1()
+        elif i == 1:
+            story2()
+            break
+        elif i == 2:
+            story3()
+            break
+        else:
+            story4()
+            print("We are out of stories thanks for playing")
+            playing = False
+    again = input("Do you want to play again? Press q to quit or a to play again ")
+    if again == "q":
+        playing = False
