@@ -36,11 +36,26 @@ OOP solution for a collission based space-themed game 11/25/2024.
 
 ## Term 3
 ### Shape Maker
-allows the user to find the surface area and volume of a shape of their choice.
+An appication that allows the user to find the surface area and volume of a shape of their choice.
 ![Running App](https://github.com/AvaBaskin13/programmingportfolio/blob/main/images/runningShapeTester.png)
 [Source Code](https://github.com/AvaBaskin13/programmingportfolio/tree/main/src/shapeTester)
 
+## Term 4 (Group Projects)
+### Mad Lib Game
+User can provide words that get put into 1 of 4 different stories.
+![Running App](https://github.com/AvaBaskin13/programmingportfolio/blob/main/images/madLibs.png?raw=true)
+[Source Code](https://github.com/AvaBaskin13/programmingportfolio/blob/main/src/madLibs)
+
+### Powerhop
+Frogger clone with powerups that give the player special abilities.
+![Runnning App](https://github.com/SpaceCheetah322/PowerHop/blob/main/runningGame/Gameplay.PNG?raw=true)
+[Source Code](https://github.com/SpaceCheetah322/PowerHop/tree/main/src/powerHop)
 
 ## Certifications
 Computer Programming 1 CTE Certification
 ![certification](https://github.com/AvaBaskin13/programmingportfolio/blob/main/images/ComputerProgramming1Certification)
+Computer Programming 2 CTE Certification (Python)
+![certification](https://github.com/AvaBaskin13/programmingportfolio/blob/main/images/pythonCert.png?raw=true)
+Robotics CTE Certification
+![certification](https://github.com/AvaBaskin13/programmingportfolio/blob/main/images/roboticsCert.png?raw=true)
+
